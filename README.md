@@ -2,6 +2,10 @@
 
 `spotify-skip-instrument` skips instrument songs on Spotify.
 
+## Notice
+
+Currently this application is only known to work on Linux.
+
 ## Installation
 
 Download the binary from [GitHub Releases](https://github.com/skmatz/spotify-skip-instrument/releases).
